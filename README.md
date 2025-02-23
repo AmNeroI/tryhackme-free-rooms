@@ -224,7 +224,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Linux Fundamentals
 
-- [ ] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [x] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
   
 - [ ] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   
