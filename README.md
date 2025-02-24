@@ -197,7 +197,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-- [x] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+- [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
 - [ ] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
@@ -224,7 +224,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Linux Fundamentals
 
-- [x] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [ ] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
   
 - [ ] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   
@@ -644,7 +644,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
       
-- [x] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
+:white_check_mark: [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
 - [ ] [🕵️ TryHackMe | Cheese CTF](https://tryhackme.com/room/cheesectfv10)
   
