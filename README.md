@@ -272,9 +272,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Recon
 
-- :white_check_mark: [🕵️ TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+:white_check_mark: [🕵️ TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-- :white_check_mark: [🕵️ TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+:white_check_mark: [🕵️ TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
 - [ ] [🕵️ TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
