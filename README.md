@@ -646,7 +646,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
       
 :white_check_mark: [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
-- [ ] [🕵️ TryHackMe | Cheese CTF](https://tryhackme.com/room/cheesectfv10)
+:white_check_mark: [🕵️ TryHackMe | Cheese CTF](https://tryhackme.com/room/cheesectfv10)
   
 - [ ] [🕵️ TryHackMe | U.A. High School](https://tryhackme.com/room/yueiua)
   
