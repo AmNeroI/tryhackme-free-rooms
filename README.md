@@ -650,7 +650,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 :white_check_mark: [🕵️ TryHackMe | U.A. High School](https://tryhackme.com/room/yueiua)
   
-- [ ] [🕵️ TryHackMe | Joomify](https://tryhackme.com/room/joomify)
+:white_check_mark: [🕵️ TryHackMe | Joomify](https://tryhackme.com/room/joomify)
   
 - [ ] [🕵️ TryHackMe | Critical](https://tryhackme.com/room/critical)
   
