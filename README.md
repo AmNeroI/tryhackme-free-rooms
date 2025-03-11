@@ -654,7 +654,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Critical](https://tryhackme.com/room/critical)
   
-- [ ] [🕵️ TryHackMe | Publisher](https://tryhackme.com/room/publisher)
+:white_check_mark: [🕵️ TryHackMe | Publisher](https://tryhackme.com/room/publisher)
 
 - [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
 
