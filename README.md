@@ -660,7 +660,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
 
-- [ ] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
+:white_check_mark: [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
   
 - [ ] [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
 
