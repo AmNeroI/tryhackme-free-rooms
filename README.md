@@ -554,7 +554,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## PrivEsc
 
-- [ ] [🕵️ TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
+:white_check_mark: [🕵️ TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
   
 - [ ] [🕵️ TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
   
