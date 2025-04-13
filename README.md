@@ -662,7 +662,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 :white_check_mark: [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
   
-- [ ] [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
+:white_check_mark: [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
 
 - [ ] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
   
