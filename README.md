@@ -109,13 +109,13 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Active Directory](#active-directory)**        |      8       |                             |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |                             |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |                             |
-| **[Easy CTF](#easy-ctf)**                        |     98       |            6               |
+| **[Easy CTF](#easy-ctf)**                        |     98       |            7               |
 | **[Medium CTF](#medium-ctf)**                    |     99       |                             |
 | **[Hard CTF](#hard-ctf)**                        |     42       |                             |
 | **[Insane CTF](#insane-ctf)**                    |      1       |                             |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                             |
-| **Total Rooms:**                                 |    **= 503** |          **= 9**           |
+| **Total Rooms:**                                 |    **= 503** |          **=10**           |
 
 ---
 
