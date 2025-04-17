@@ -109,13 +109,13 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Active Directory](#active-directory)**        |      8       |                             |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |                             |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |                             |
-| **[Easy CTF](#easy-ctf)**                        |     98       |            7               |
+| **[Easy CTF](#easy-ctf)**                        |     98       |            8               |
 | **[Medium CTF](#medium-ctf)**                    |     99       |                             |
 | **[Hard CTF](#hard-ctf)**                        |     42       |                             |
 | **[Insane CTF](#insane-ctf)**                    |      1       |                             |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                             |
-| **Total Rooms:**                                 |    **= 503** |          **=10**           |
+| **Total Rooms:**                                 |    **= 503** |          **=11**           |
 
 ---
 
@@ -674,7 +674,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | TryHack3M: Bricks Heist](https://tryhackme.com/room/tryhack3mbricksheist)
   
-- [ ] [🕵️ TryHackMe | Creative](https://tryhackme.com/room/creative)
+:white_check_mark: [🕵️ TryHackMe | Creative](https://tryhackme.com/room/creative)
   
 - [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
 
