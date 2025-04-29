@@ -109,13 +109,13 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Active Directory](#active-directory)**        |      8       |                             |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |                             |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |                             |
-| **[Easy CTF](#easy-ctf)**                        |     98       |            9               |
+| **[Easy CTF](#easy-ctf)**                        |     98       |            10              |
 | **[Medium CTF](#medium-ctf)**                    |     99       |                             |
 | **[Hard CTF](#hard-ctf)**                        |     42       |                             |
 | **[Insane CTF](#insane-ctf)**                    |      1       |                             |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                             |
-| **Total Rooms:**                                 |    **= 503** |          **=12**           |
+| **Total Rooms:**                                 |    **= 503** |          **=13**           |
 
 ---
 
@@ -690,7 +690,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Bulletproof Penguin ](https://tryhackme.com/room/bppenguin)
   
-- [ ] [🕵️ TryHackMe | Hijack ](https://tryhackme.com/room/hijack)
+:white_check_mark: [🕵️ TryHackMe | Hijack ](https://tryhackme.com/room/hijack)
   
 - [ ] [🕵️ TryHackMe | Compiled ](https://tryhackme.com/room/compiled)
   
