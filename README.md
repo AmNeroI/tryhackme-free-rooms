@@ -94,7 +94,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Reconnaissance](#recon)**                     |     10       |            2                |
 | **[Scripting](#scripting)**                      |      7       |                             |
 | **[Networking](#networking)**                    |      7       |                             |
-| **[Tooling](#tooling)**                          |     18       |            2                |
+| **[Tooling](#tooling)**                          |     18       |            3                |
 | **[Container Security](#container-security)**    |     3        |                              |
 | **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                             |
 | **[Steganography](#steganography)**              |      6       |                             |
@@ -115,7 +115,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |                             |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                             |
-| **Total Rooms:**                                 |    **= 503** |          **=16**           |
+| **Total Rooms:**                                 |    **= 503** |          **=17**           |
 
 ---
 
