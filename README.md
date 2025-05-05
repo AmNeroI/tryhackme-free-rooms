@@ -94,7 +94,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Reconnaissance](#recon)**                     |     10       |            2                |
 | **[Scripting](#scripting)**                      |      7       |                             |
 | **[Networking](#networking)**                    |      7       |                             |
-| **[Tooling](#tooling)**                          |     18       |                             |
+| **[Tooling](#tooling)**                          |     18       |            1                |
 | **[Container Security](#container-security)**    |     3        |                              |
 | **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                             |
 | **[Steganography](#steganography)**              |      6       |                             |
@@ -115,7 +115,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |                             |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                             |
-| **Total Rooms:**                                 |    **= 503** |          **=14**           |
+| **Total Rooms:**                                 |    **= 503** |          **=15**           |
 
 ---
 
@@ -356,7 +356,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
-- [ ] [🕵️ TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
+:white_check_mark: [🕵️ TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
 - [ ] [🕵️ TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 
