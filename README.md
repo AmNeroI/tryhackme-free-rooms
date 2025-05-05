@@ -94,7 +94,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Reconnaissance](#recon)**                     |     10       |            2                |
 | **[Scripting](#scripting)**                      |      7       |                             |
 | **[Networking](#networking)**                    |      7       |                             |
-| **[Tooling](#tooling)**                          |     18       |            1                |
+| **[Tooling](#tooling)**                          |     18       |            2                |
 | **[Container Security](#container-security)**    |     3        |                              |
 | **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                             |
 | **[Steganography](#steganography)**              |      6       |                             |
@@ -115,7 +115,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |                             |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                             |
-| **Total Rooms:**                                 |    **= 503** |          **=15**           |
+| **Total Rooms:**                                 |    **= 503** |          **=16**           |
 
 ---
 
@@ -171,7 +171,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 **🌐 Let’s build the ultimate TryHackMe lab directory, one PR at a time! 🔗 [Make your contribution now.](https://github.com/Hunterdii/tryhackme-free-rooms/pulls)**
 
 
-
+:white_check_mark:
 ## Intro Rooms
 
 
@@ -346,7 +346,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
 
-- [ ] [🕵️ TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
+:white_check_mark: [🕵️ TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
 - [ ] [🕵️ TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
