@@ -358,7 +358,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 :white_check_mark: [🕵️ TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
-- [ ] [🕵️ TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+:white_check_mark: [🕵️ TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 
 - [ ] [🕵️ TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
