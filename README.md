@@ -98,7 +98,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Container Security](#container-security)**    |     3        |                              |
 | **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                             |
 | **[Steganography](#steganography)**              |      6       |                             |
-| **[Web](#web)**                                  |     33       |                             |
+| **[Web](#web)**                                  |     33       |            1                |
 | **[Android](#android)**                          |      1       |                             |
 | **[Forensics](#forensics)**                      |     17       |                             |
 | **[Wifi Hacking](#wi-fi-hacking)**               |      1       |                             |
@@ -115,7 +115,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |                             |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                             |
-| **Total Rooms:**                                 |    **= 503** |          **=17**           |
+| **Total Rooms:**                                 |    **= 503** |          **=18**           |
 
 ---
 
@@ -408,7 +408,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection)
   
-- [ ] [🕵️ TryHackMe | XSS](https://tryhackme.com/room/axss)
+:white_check_mark: [🕵️ TryHackMe | XSS](https://tryhackme.com/room/axss)
   
 - [ ] [🕵️ TryHackMe | CSRF](https://tryhackme.com/room/csrfV2)
   
